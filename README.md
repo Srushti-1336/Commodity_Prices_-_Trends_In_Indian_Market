@@ -1,5 +1,5 @@
 # Commodity Prices & Trends In Indian Market
-
+![Agriculture-Commodity-Market-in-India](https://github.com/user-attachments/assets/14de6a01-f998-4942-aff8-cc71e9137e32)
 
 ## 📌 Project Overview
 This project analyzes the **Mandi (Farmers' Market) Dataset**, which contains data on commodity prices, market locations, and arrival trends. The goal is to uncover insights into price variations, supply-demand patterns, and regional differences to help farmers, traders, and policymakers make data-driven decisions.
